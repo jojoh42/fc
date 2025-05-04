@@ -8,6 +8,7 @@ public class FcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FcApplication.class, args);
+		System.out.println("Hello, Spring Boot is running!");
 	}
 
 }
