@@ -1,4 +1,4 @@
-package space.jojoh.fc;
+package space.jojoh.fc.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
